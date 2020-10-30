@@ -1,0 +1,14 @@
+#first-div {
+  background-color: lightgreen;
+  padding: 2px;
+}
+
+#parent-div {
+  background-color: lightblue;
+  padding: 2px;
+}
+
+#child-div {
+  background-color: lightcoral;
+  padding: 2px;
+}
